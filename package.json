@@ -1,0 +1,28 @@
+{
+  "name": "helloworld-inputbutton-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChuangLiu-cc/helloworld-inputbutton-lib.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChuangLiu-cc/helloworld-inputbutton-lib/issues"
+  },
+  "homepage": "https://github.com/ChuangLiu-cc/helloworld-inputbutton-lib#readme",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
